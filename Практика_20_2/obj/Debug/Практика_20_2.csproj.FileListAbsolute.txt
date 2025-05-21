@@ -1,0 +1,10 @@
+D:\Гурина ПР-21\Практика_20_2\bin\Debug\Практика_20_2.exe.config
+D:\Гурина ПР-21\Практика_20_2\bin\Debug\Практика_20_2.exe
+D:\Гурина ПР-21\Практика_20_2\bin\Debug\Практика_20_2.pdb
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.csproj.AssemblyReference.cache
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.Form1.resources
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.Properties.Resources.resources
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.csproj.GenerateResource.cache
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.csproj.CoreCompileInputs.cache
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.exe
+D:\Гурина ПР-21\Практика_20_2\obj\Debug\Практика_20_2.pdb
